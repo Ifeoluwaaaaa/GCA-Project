@@ -1,0 +1,38 @@
+.search{
+	padding-top: 30vh;
+	padding-bottom: 30vh;
+}
+.dream{
+	width: 100%;
+	margin-bottom: 30px;
+	color: #fff;
+}
+.houses figure img{
+	width: 100%;
+}
+.houses{
+	padding-bottom: 20px;
+}
+.info{
+	padding-top: 40px;
+	background: #efefef;
+}
+.best{
+	width: 100%;
+	color: black;
+	margin-bottom: 30px;
+}
+.footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #898b8e;
+	color: #fff;
+}
+.foot {
+	color: #fff;
+}
+
+
+.ife-nav .nav-item {
+   margin-left: 20px;
+}
